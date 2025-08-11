@@ -1,0 +1,15 @@
+{
+  "acctNum" : "A239076705",
+  "resvNum" : "O454548345",
+  "lodgingAddress" : "123 house1 lodging address",
+  "lodgingEmail" : "house2@email.com",
+  "startDate" : "2025-12-12",
+  "numNight" : 19,
+  "numBed" : 2,
+  "numBedroom" : 1,
+  "numBathroom" : 1,
+  "lodgingSize" : 600,
+  "price" : 120.0,
+  "status" : "draft",
+  "floorNum" : 3
+}

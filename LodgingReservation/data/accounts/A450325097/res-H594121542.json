@@ -1,0 +1,15 @@
+{
+  "acctNum" : "A450325097",
+  "resvNum" : "H594121542",
+  "lodgingAddress" : "house3 address",
+  "lodgingEmail" : "email3",
+  "startDate" : "2026-12-12",
+  "numNight" : 4,
+  "numBed" : 2,
+  "numBedroom" : 1,
+  "numBathroom" : 1,
+  "lodgingSize" : 400,
+  "price" : 0.0,
+  "status" : "draft",
+  "kitchenette" : true
+}

@@ -1,0 +1,16 @@
+{
+  "acctNum" : "A239076705",
+  "resvNum" : "C147142436",
+  "lodgingAddress" : "cabin2 lodging address",
+  "lodgingEmail" : "cain@email.com",
+  "startDate" : "2026-01-01",
+  "numNight" : 4,
+  "numBed" : 2,
+  "numBedroom" : 1,
+  "numBathroom" : 1,
+  "lodgingSize" : 900,
+  "price" : 0.0,
+  "status" : "draft",
+  "fullKitchen" : true,
+  "loft" : "Y"
+}
