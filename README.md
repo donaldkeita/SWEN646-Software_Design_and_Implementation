@@ -1,4 +1,4 @@
-# SWEN646-Software_Design_and_Implementation
+# SWEN 646 - Software Design and Implementation
 
 An exploration of modern software development techniques, tools, and technologies for building large,
 complex systems. Topics include software development processes and the role of design in those
